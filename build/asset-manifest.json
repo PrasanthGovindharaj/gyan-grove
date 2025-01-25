@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gyan-grove/static/css/main.f0baa598.css",
+    "main.js": "/gyan-grove/static/js/main.03976c6e.js",
+    "static/js/845.a687b371.chunk.js": "/gyan-grove/static/js/845.a687b371.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/gyan-grove/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/gyan-grove/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/gyan-grove/index.html",
+    "main.f0baa598.css.map": "/gyan-grove/static/css/main.f0baa598.css.map",
+    "main.03976c6e.js.map": "/gyan-grove/static/js/main.03976c6e.js.map",
+    "845.a687b371.chunk.js.map": "/gyan-grove/static/js/845.a687b371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0baa598.css",
+    "static/js/main.03976c6e.js"
+  ]
+}
